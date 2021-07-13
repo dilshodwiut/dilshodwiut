@@ -33,7 +33,7 @@
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" />
-<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png" />
+<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 
 <br />
 <br />
