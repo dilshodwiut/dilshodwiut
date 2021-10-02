@@ -1,8 +1,8 @@
 ### Hi there, I'm Dilshod 👋
 
 ## I'm a Developer, Student, and Linux enthusiast!
-- 🔭 I'm curently working on my projects
-- 🌱 I'm currently learning React
+- 🔭 I'm curently working on my portfolio website
+- 🌱 I'm currently learning Next.js
 - 👯 I'm looking to collaborate with other developers
 - 🥅 2021 Goals: Build up a nice protfolio with real projects
 - ⚡ Fun fact: I'm a lifelong learner
@@ -10,7 +10,6 @@
 ### Connect with me:
 [<img align="left" alt="" width="22px" src="https://image.flaticon.com/icons/png/512/3048/3048122.png" />][website]
 [<img align="left" alt="" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" />][telegram]
-[<img align="left" alt="" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram]
 [<img align="left" alt="" width="22px" src="https://image.flaticon.com/icons/png/512/145/145807.png" />][linkedin]
 
 <br />
