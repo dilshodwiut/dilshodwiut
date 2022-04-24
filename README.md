@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I'm a lifelong learner
 
 ### Connect with me:
-<!-- [<img align="left" alt="" width="22px" src="https://image.flaticon.com/icons/png/512/3048/3048122.png" />][website] -->
-[<img align="left" alt="" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" />][telegram]
+<!-- [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/3048/3048122.png" />][website] -->
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][telegram]
 <!-- [<img align="left" alt="" width="22px" src="https://image.flaticon.com/icons/png/512/145/145807.png" />][linkedin] -->
 
 <br />
