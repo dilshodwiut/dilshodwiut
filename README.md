@@ -46,7 +46,7 @@
 <!-- [website]: https://dilshod.me -->
 [telegram]: https://telegram.me/dilshodwiut
 <!-- [instagram]: https://instagram.com/dilshodwiut -->
-[linkedin]: https://www.linkedin.com/in/dilshod-ramatilloyev
+[linkedin]: https://www.linkedin.com/in/dilshod-me
 
 
 <!--
