@@ -1,6 +1,6 @@
 ### Hi there, I'm Dilshod 👋
 
-## I'm a Developer, Student, and Linux enthusiast!
+## I'm a Developer, Graduate, and Linux enthusiast!
 - 🔭 I'm curently working as a frontend web developer
 - 🌱 I'm currently learning, well, everything 😅
 - 👯 I'm looking to collaborate with other developers
@@ -44,7 +44,7 @@
 <br />
 
 <!-- [website]: https://dilshod.me -->
-[telegram]: https://telegram.me/dilshodwiut
+[telegram]: https://telegram.me/void_stalker
 <!-- [instagram]: https://instagram.com/dilshodwiut -->
 [linkedin]: https://www.linkedin.com/in/dilshod-me
 
